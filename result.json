@@ -1,0 +1,189 @@
+{
+    "Total final consumption": -355965226.0,
+    "Exit energy": {
+        "Industry": {
+            "Share of total final consumption": 0.33919389361926044,
+            "Share of energyforms": {
+                "Coal": 0.2549830223281391,
+                "Crude oil": 0.0009960557715367338,
+                "Oil products": 0.1056477882025238,
+                "Natural gas": 0.21663777802629824,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 0.00032442107534914893,
+                "Biofuels and waste": 0.08387325453059195,
+                "Electricity": 0.2853355619672289,
+                "Heat": 0.05220209325180725
+            }
+        },
+        "Transport": {
+            "Share of total final consumption": 0.293937332519104,
+            "Share of energyforms": {
+                "Coal": 0.00040088321803070546,
+                "Crude oil": 1.2854641274318723e-05,
+                "Oil products": 0.9061338897956216,
+                "Natural gas": 0.04565348308356447,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 0,
+                "Biofuels and waste": 0.03523077746332702,
+                "Electricity": 0.01256809268347365,
+                "Heat": 0
+            }
+        },
+        "Residential": {
+            "Share of total final consumption": 0.23484552111840273,
+            "Share of energyforms": {
+                "Coal": 0.02789490640908085,
+                "Crude oil": 0,
+                "Oil products": 0.10886857815281747,
+                "Natural gas": 0.24191271155599556,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 0.02325785308700488,
+                "Biofuels and waste": 0.2697451754126732,
+                "Electricity": 0.27232632564013576,
+                "Heat": 0.05599441385576792
+            }
+        },
+        "Commercial and public services": {
+            "Share of total final consumption": 0.08950490854969075,
+            "Share of energyforms": {
+                "Coal": 0.032026951126366436,
+                "Crude oil": 0,
+                "Oil products": 0.09945520545965264,
+                "Natural gas": 0.25098495368971774,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 0.01281104409877581,
+                "Biofuels and waste": 0.037704301875967,
+                "Electricity": 0.5185593758567587,
+                "Heat": 0.048458136506067756
+            }
+        },
+        "Agriculture / forestry": {
+            "Share of total final consumption": 0.024821708286752706,
+            "Share of energyforms": {
+                "Coal": 0.06213759801893802,
+                "Crude oil": 4.900593220770593e-05,
+                "Oil products": 0.49042398053796743,
+                "Natural gas": 0.05600868751814379,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 0.01035326712816749,
+                "Biofuels and waste": 0.058786407135173184,
+                "Electricity": 0.30569051678622944,
+                "Heat": 0.01655019741015532
+            }
+        },
+        "Fishing": {
+            "Share of total final consumption": 0.0009269697596809639,
+            "Share of energyforms": {
+                "Coal": 0.00030305877218769035,
+                "Crude oil": 0,
+                "Oil products": 0.8771642184568853,
+                "Natural gas": 0.008106822156020717,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 0.0082007703753989,
+                "Biofuels and waste": 0.0012637550800226687,
+                "Electricity": 0.09802435986410844,
+                "Heat": 0.0069309541199324785
+            }
+        },
+        "Non-specified": {
+            "Share of total final consumption": 0.016769654910055738,
+            "Share of energyforms": {
+                "Coal": 0.12934552704838365,
+                "Crude oil": 1.122388227722185e-05,
+                "Oil products": 0.1366634982931323,
+                "Natural gas": 0.050136579570457,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 0.0024963924432113435,
+                "Biofuels and waste": 0.034193808638502875,
+                "Electricity": 0.596832285380106,
+                "Heat": 0.05032018218203663
+            }
+        }
+    },
+    "Transport losses": {
+        "Electricity": 0.08749606838226298,
+        "Heat": 0.0647760437910654
+    },
+    "Entry energy": {
+        "Energy industry own use": {
+            "Share of total final consumption": 0.0978632137511095,
+            "Share of energyforms": {
+                "Coal": 0.08293507321656472,
+                "Crude oil": 0.009434921749260913,
+                "Oil products": 0.2411354596512374,
+                "Natural gas": 0.3604262740326424,
+                "Nuclear": 0,
+                "Hydro": 0,
+                "Wind, solar, etc.": 5.511555449649487e-06,
+                "Biofuels and waste": 0.017977057633732512,
+                "Electricity": 0.23539256240279247,
+                "Heat": 0.05269308234628408
+            }
+        },
+        "Heat production distribution": {
+            "CHP plants": 0.733350597687592,
+            "Heat plants": 0.2666494023124079
+        },
+        "Electricity consumption on heat plants": {
+            "Share of heat production on Heat plants": 0.0071079251493139555
+        },
+        "Electricity and heat production ratio": {
+            "Cm-value": 1.2908488295166727
+        },
+        "Oil production distribution": {
+            "Oil refineries": 1.0
+        },
+        "Electricity only fuel share": {
+            "Hydro": 0.19185035418168314,
+            "Wind, solar, etc.": 0.14934718248299228,
+            "Fuel based plants": 0.6588024633353246
+        },
+        "CHP fuel share": {
+            "Wind, solar, etc.": 0.005351198065724982,
+            "Fuel based plants": 0.9946488019342751
+        },
+        "Heat plants fuel share": {
+            "Wind, solar, etc.": 0.021926573610847197,
+            "Fuel based plants": 0.9780734263891528
+        },
+        "Thermal plant efficiencies": {
+            "Electricity plants": 0.3640895963275163,
+            "CHP plants": 0.548727423377747,
+            "Heat plants": 0.9264613110589812,
+            "Oil refineries": 0.9801174075807906
+        },
+        "Fuel distribution": {
+            "Electricity plants": {
+                "Coal": 0.46206273020731337,
+                "Crude oil": 0.00981473672536118,
+                "Oil products": 0.035615663978339346,
+                "Natural gas": 0.26108744702853054,
+                "Nuclear": 0.19540370495228726,
+                "Biofuels and waste": 0.03601571710816833
+            },
+            "CHP plants": {
+                "Coal": 0.628088253681887,
+                "Crude oil": 1.261087560651218e-06,
+                "Oil products": 0.011796255078583515,
+                "Natural gas": 0.2865453874555963,
+                "Nuclear": 0.00041838681637205245,
+                "Biofuels and waste": 0.07315045588000045
+            },
+            "Heat plants": {
+                "Coal": 0.219965607841557,
+                "Crude oil": 0.004175640879943024,
+                "Oil products": 0.09284864054534843,
+                "Natural gas": 0.551481384723561,
+                "Nuclear": 0.0011559133821083805,
+                "Biofuels and waste": 0.13037281262748213
+            }
+        }
+    }
+}
